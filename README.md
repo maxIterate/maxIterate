@@ -5,7 +5,6 @@
 - 👯 Looking to collaborate on frontend projects
 - 🌱 Currently learning MERN stack
 - 📫 How to reach me: **maxipp042@gmail.com**
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
