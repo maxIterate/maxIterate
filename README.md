@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Palavecino</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Web developing student</h3>
 
+- 🔭 Currently working on my portfolio
+- 👯 Looking to collaborate on frontend projects
+- 🌱 Currently learning MERN stack
 - 📫 How to reach me: **maxipp042@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
