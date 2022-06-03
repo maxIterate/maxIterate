@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on my portfolio
 - 👯 Looking to collaborate on frontend projects
-- 🌱 Currently learning MERN stack
+- 🌱 Learning MERN stack
 - 📫 How to reach me: **maxipp042@gmail.com**
 <p align="left">
 </p>
