@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Palavecino</h1>
-<h3 align="center">Web developing student</h3>
+<h3 align="center">Cloud computing student</h3>
 
 - 🔭 Currently learning AWS and Python
 - 🌱 Learning Cloud Computing
