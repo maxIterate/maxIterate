@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Palavecino</h1>
 <h3 align="center">Web developing student</h3>
 
-- 🔭 Currently working on my portfolio
-- 👯 Looking to collaborate on frontend projects
-- 🌱 Learning MERN stack
+- 🔭 Currently learning AWS and Python
+- 🌱 Learning Cloud Computing
 - 📫 How to reach me: **maxipp042@gmail.com**
 <p align="left">
 </p>
