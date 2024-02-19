@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Palavecino</h1>
-<h3 align="center">Cloud computing student</h3>
+<h3 align="center">Data Analyst/Data Science</h3>
 
-- 🔭 Currently learning Frontend technologies
-- 📫 How to reach me: **maxipp042@gmail.com**
+- 🔭 Currently learning Data Science
+- 📫 How to reach me: **maxi.palave@gmail.com**
 <p align="left">
 </p>
 
